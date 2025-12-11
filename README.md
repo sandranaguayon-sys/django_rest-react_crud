@@ -1,4 +1,7 @@
-##Django API - Backend server
+# Django API - Backend server
+## Entorno Virtual venv
+## Django REST Framework
 
-
-##Vite + React - Frontend CRUD
+# Vite + React - Frontend CRUD
+## Tailwind CSS
+## Reac-Hot-Toast
