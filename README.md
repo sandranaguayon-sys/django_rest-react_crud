@@ -4,4 +4,4 @@
 
 # Vite + React - Frontend CRUD
 ## Tailwind CSS
-## Reac-Hot-Toast
+## React Hot Toast
